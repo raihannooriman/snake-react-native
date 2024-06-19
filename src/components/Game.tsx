@@ -6,7 +6,7 @@ import { Coordinate, Direction, GestureEventType } from "../types/types";
 import Snake from "./Snake";
 import { checkGameOver } from "../utils/checkGameOver";
 import Food from "./Food";
-import { checkEatsFood } from "../utils/checkEatsfood";
+import { checkEatsFood } from "../utils/checkEatsFood";
 import { randomFoodPosition } from "../utils/randomFoodPosition";
 import Header from "./Header";
 
